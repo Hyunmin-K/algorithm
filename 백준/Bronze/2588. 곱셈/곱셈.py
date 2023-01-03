@@ -1,0 +1,11 @@
+a = input()
+b = input()
+
+a1 = int(a) * int(b[2])
+a2 = int(a) * int(b[1])
+a3 = int(a) * int(b[0])
+a4 = int(a) * int(b)
+print(a1)
+print(a2)
+print(a3)
+print(a4)
